@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="667a5324-6043-4c76-8d6a-1a0ce14e16c4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/30-days-of-java" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/30-days-of-java" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/DIA06.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3BmBH4g3qJ901UXCHNaLdvh1iXa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DIA02.executor": "Run",
+    "Application.DIA04.executor": "Run",
+    "Application.DIA05.executor": "Run",
+    "Application.DIA06.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.fibrrecursividade.executor": "Run",
+    "Application.principal.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kaleb/OneDrive/KALEBE/kalebe/CURSOJAVA/30-days-of-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/kaleb/OneDrive/KALEBE/kalebe/CURSOJAVA/saborr/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.completion.popup",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="667a5324-6043-4c76-8d6a-1a0ce14e16c4" name="Changes" comment="" />
+      <created>1775084274896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775084274896</updated>
+      <workItem from="1775084276627" duration="1306000" />
+      <workItem from="1775168830394" duration="7101000" />
+      <workItem from="1775186703821" duration="364000" />
+      <workItem from="1775344310736" duration="69000" />
+      <workItem from="1775516688971" duration="19000" />
+      <workItem from="1775516757571" duration="2441000" />
+      <workItem from="1775691730562" duration="1442000" />
+      <workItem from="1775778436308" duration="736000" />
+      <workItem from="1776014742731" duration="5350000" />
+      <workItem from="1776383417387" duration="3384000" />
+      <workItem from="1776387895923" duration="713000" />
+      <workItem from="1776984571623" duration="3007000" />
+      <workItem from="1777417508908" duration="14000" />
+      <workItem from="1777589805644" duration="4115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
