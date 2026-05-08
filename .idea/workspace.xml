@@ -4,93 +4,92 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="667a5324-6043-4c76-8d6a-1a0ce14e16c4" name="Changes" comment="" />
+    <list default="true" id="85c9c32e-fd19-4a1c-9a29-b12534fe86b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30-days-of-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA01/DIA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA02/DIA02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA03/DIA03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA04/DIA04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA05/DIA05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA06/DIA06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA07/DIA07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA08/DIA08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA14/diaDaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA14/principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA15/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fibrrecursividade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-days-of-java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/30-days-of-java" value="master" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/30-days-of-java" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/DIA06.java" root0="FORCE_HIGHLIGHTING" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8,
+  &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
 }</component>
-  <component name="ProjectId" id="3BmBH4g3qJ901UXCHNaLdvh1iXa" />
+  <component name="ProjectId" id="3DPyoM4qd6qZlTi3Esvcuk77gHV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.DIA02.executor": "Run",
-    "Application.DIA04.executor": "Run",
-    "Application.DIA05.executor": "Run",
-    "Application.DIA06.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.fibrrecursividade.executor": "Run",
-    "Application.principal.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kaleb/OneDrive/KALEBE/kalebe/CURSOJAVA/30-days-of-java",
+    "last_opened_file_path": "C:/Users/kaleb/OneDrive/Desktop/Estudo programação/Repositorios GitHub/30-days-of-java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/kaleb/OneDrive/KALEBE/kalebe/CURSOJAVA/saborr/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.completion.popup",
-    "vue.rearranger.settings.migration": "true"
+    "onboarding.tips.debug.path": "C:/Users/kaleb/OneDrive/KALEBE/kalebe/CURSOJAVA/30-days-of-java/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kaleb\OneDrive\Desktop\Estudo programação\Repositorios GitHub\30-days-of-java\src" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="667a5324-6043-4c76-8d6a-1a0ce14e16c4" name="Changes" comment="" />
-      <created>1775084274896</created>
+      <changelist id="85c9c32e-fd19-4a1c-9a29-b12534fe86b1" name="Changes" comment="" />
+      <created>1778198173021</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1775084274896</updated>
-      <workItem from="1775084276627" duration="1306000" />
-      <workItem from="1775168830394" duration="7101000" />
-      <workItem from="1775186703821" duration="364000" />
-      <workItem from="1775344310736" duration="69000" />
-      <workItem from="1775516688971" duration="19000" />
-      <workItem from="1775516757571" duration="2441000" />
-      <workItem from="1775691730562" duration="1442000" />
-      <workItem from="1775778436308" duration="736000" />
-      <workItem from="1776014742731" duration="5350000" />
-      <workItem from="1776383417387" duration="3384000" />
-      <workItem from="1776387895923" duration="713000" />
-      <workItem from="1776984571623" duration="3007000" />
-      <workItem from="1777417508908" duration="14000" />
-      <workItem from="1777589805644" duration="4115000" />
+      <updated>1778198173021</updated>
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
