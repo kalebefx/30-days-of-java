@@ -5,30 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85c9c32e-fd19-4a1c-9a29-b12534fe86b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30-days-of-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA01/DIA1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA02/DIA02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA03/DIA03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA04/DIA04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA05/DIA05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA06/DIA06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA07/DIA07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA08/DIA08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA14/diaDaSemana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA14/principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA15/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fibrrecursividade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA09/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA09/PRINCIPAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA10/PESSOA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA10/PRINCIPAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA11/ANIMAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA11/CACHORRO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA11/GATO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA11/PRINCIPAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA12/CIRCULO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA12/FORMA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA12/PRINCIPAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA12/RETANGULO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA13/CARTAOCREDITO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA13/PAGAMENTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA13/PIX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA13/PRINCIPAL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30-days-of-java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30-days-of-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/30-days-of-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,14 +55,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PRINCIPAL.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kaleb/OneDrive/Desktop/Estudo programação/Repositorios GitHub/30-days-of-java",
+    "last_opened_file_path": "C:/Users/kaleb/OneDrive/Documentos/ESTUDO DE DEV/30-days-of-java/src/DIA08",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,10 +74,18 @@
     "onboarding.tips.debug.path": "C:/Users/kaleb/OneDrive/KALEBE/kalebe/CURSOJAVA/30-days-of-java/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kaleb\OneDrive\Documentos\ESTUDO DE DEV\30-days-of-java\src\DIA08" />
+      <recent name="C:\Users\kaleb\OneDrive\Documentos\ESTUDO DE DEV\30-days-of-java\src\DIA07" />
+      <recent name="C:\Users\kaleb\OneDrive\Documentos\ESTUDO DE DEV\30-days-of-java\src\DIA06" />
+      <recent name="C:\Users\kaleb\OneDrive\Documentos\ESTUDO DE DEV\30-days-of-java\src\DIA05" />
+      <recent name="C:\Users\kaleb\OneDrive\Documentos\ESTUDO DE DEV\30-days-of-java\src\DIA04" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kaleb\OneDrive\Desktop\Estudo programação\Repositorios GitHub\30-days-of-java\src" />
     </key>
@@ -75,6 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778198173021</updated>
+      <workItem from="1778356954016" duration="1733000" />
     </task>
     <servers />
   </component>
