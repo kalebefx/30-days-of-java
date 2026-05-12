@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85c9c32e-fd19-4a1c-9a29-b12534fe86b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA09/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA09/PRINCIPAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA10/PESSOA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA10/PRINCIPAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA11/ANIMAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA11/CACHORRO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA11/GATO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA11/PRINCIPAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA12/CIRCULO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA12/FORMA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA12/PRINCIPAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA12/RETANGULO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA13/CARTAOCREDITO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA13/PAGAMENTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA13/PIX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIA13/PRINCIPAL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIA15/Caixa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30-days-of-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/30-days-of-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DIA15/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DIA15/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.PRINCIPAL.executor": "Run",
+    "Application.Principal.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
